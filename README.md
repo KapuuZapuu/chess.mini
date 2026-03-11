@@ -36,8 +36,8 @@ Enter your move (e.g., 'e2 e4')
 
 ## Limitations
 
-- Global mutable state (intentional for a prototype, addressed in v2)
-- Console-only interface
+- Global mutable state (intentional for this prototype)
+- Text-only interface
 - No AI opponent
 - No saved games or move history export
 
