@@ -1,4 +1,4 @@
-# chess.mini v1.0 by Hassan Khan
+# chess-mini v1.0 by Hassan Khan
 # 2025
 
 # ---
